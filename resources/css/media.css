@@ -1,0 +1,12 @@
+@media screen and (max-width:1366px){
+.info-icon { max-width: 100%; }
+.windy-road, #road-path { left: 0; right: 0; width: auto; max-width: 100%; }
+#road-path { top: -536px; margin-left: 0; left: 65px; }
+.windy-road { top:-446px }
+.scroll-car { left: 0; margin-left: -15px; right: auto; top: -326px;}
+}
+
+
+@media screen and (max-width:599px){
+.container { max-width: 350px; }
+}
